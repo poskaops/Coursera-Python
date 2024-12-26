@@ -27,7 +27,7 @@ if valor1 * valor:<br>
 else:<br>
     teste2<br>
 
-**FOR**
+**FOR**<br>
 for x in range(10): <br>
     print(x)<br>
 
