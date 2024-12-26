@@ -17,11 +17,11 @@
 
 # **ESTRUTURA:**
 
-**IF**
+**IF**<br>
 if valor1 * valor2: <br>
     teste<br>
 
-**ELSE**
+**ELSE**<br>
 if valor1 * valor:<br>
     teste1<br>
 else:<br>
@@ -31,7 +31,7 @@ else:<br>
 for x in range(10): <br>
     print(x)<br>
 
-**WHILE**
+**WHILE**<br>
 while x < y:<br>
     print("X é menor")<br>
     x = x + 1 <br>
