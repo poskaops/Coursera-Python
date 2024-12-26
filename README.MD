@@ -18,20 +18,20 @@
 # **ESTRUTURA:**
 
 **IF**
-- if valor1 * valor2:
--     teste
+if valor1 * valor2: <br>
+    teste<br>
 
 **ELSE**
-- if valor1 * valor:
--     teste1
-- else:
--     teste2
+if valor1 * valor:<br>
+    teste1<br>
+else:<br>
+    teste2<br>
 
 **FOR**
-- for x in range(10): 
--     print(x)
+for x in range(10): <br>
+    print(x)<br>
 
 **WHILE**
-- while x < y:
--     print("X é menor")
--     x = x + 1 
+while x < y:<br>
+    print("X é menor")<br>
+    x = x + 1 <br>
