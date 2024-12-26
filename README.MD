@@ -32,6 +32,6 @@ for x in range(10):
     print(x)
 
 **WHILE**
-while x < y:
+while x < y: \n
     print("X é menor")
     x = x + 1 
